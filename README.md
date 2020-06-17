@@ -6,4 +6,4 @@
 
 >[Aimware.net Lua Section](https://aimware.net/forum/board/90)
 
-### Don't forget to check out the provided license before any sort of modifications on my work
+### Don't forget to check out the provided license before any sort of modifications to my work
